@@ -12,6 +12,8 @@ public class Student {
 			
 		}
 		System.out.println(r);
+		System.out.println(r);
+		
 		}
 
 }
